@@ -1,2 +1,1 @@
-# bilgisayar-programciligi
- 
+yapmış olduğum ödevler.
