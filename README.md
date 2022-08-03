@@ -1,1 +1,1 @@
-yapmış olduğum ödevler.
+isü
